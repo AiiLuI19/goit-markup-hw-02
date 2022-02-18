@@ -17,6 +17,7 @@
 body {
   color: var(--title-text-color);
   background-color: var(--primary-background-color);
+
   font-family: Roboto, sans-serif;
   font-size: 14px;
   line-height: 1.7;
@@ -32,12 +33,14 @@ a {
 /* HEADER */
 .header {
   background-color: var(--title-background-color);
+
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
 }
 .logo {
   color: #000000;
+
   font-family: Raleway, sans-serif;
   font-weight: 700;
   font-size: 26px;
@@ -51,6 +54,7 @@ a {
 
 .site-nav .link {
   color: var(--primary-tex-color);
+
   letter-spacing: 0.02em;
 }
 .site-nav .link:hover,
@@ -63,6 +67,7 @@ a {
 
 .outh-nav .link {
   color: var(--title-text-color);
+
   letter-spacing: 0.02em;
 }
 .outh-nav .link:hover,
@@ -75,6 +80,7 @@ a {
 /* section */
 .section-title {
   color: var(--primary-tex-color);
+
   font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
@@ -90,6 +96,7 @@ a {
 /* Button nav*/
 .section-nav .button {
   color: var(--primary-tex-color);
+
   font-family: Roboto, sans-serif;
   text-align: center;
   font-style: normal;
@@ -112,6 +119,7 @@ a {
 
 .work .type {
   color: var(--primary-tex-color);
+
   font-weight: 700;
   font-size: 18px;
   line-height: 2;
@@ -123,6 +131,7 @@ a {
 .hero {
   color: var(--title-background-color);
   background-color: var(--fuuter-background-color);
+
   letter-spacing: 0.06em;
   font-weight: 900;
   font-size: 44px;
@@ -133,6 +142,7 @@ a {
   font-family: inherit;
   color: var(--title-background-color);
   background-color: var(--accent-color);
+
   font-weight: 700;
   font-size: 16px;
   line-height: 1.88;
@@ -149,6 +159,7 @@ a {
 /* Чем занимаемся */
 .section-title-common {
   color: var(--primary-tex-color);
+
   font-size: 36px;
   line-height: 1.17;
   text-align: center;
@@ -159,6 +170,7 @@ a {
 }
 .name {
   color: var(--primary-tex-color);
+
   font-weight: 500;
   font-size: 16px;
   line-height: 1.19;
@@ -169,6 +181,7 @@ a {
 /* FUOOTER */
 .logo-footer {
   color: var(--title-background-color);
+
   font-family: Raleway, sans-serif;
   font-weight: 700;
   font-size: 26px;
