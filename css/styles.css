@@ -90,7 +90,7 @@ a {
 .section-work {
   display: none;
 }
-.hero-portfolio {
+.portfolio {
   display: none;
 }
 /* Button nav*/
@@ -117,7 +117,12 @@ a {
   background-color: var(--accent-color);
 }
 
-.work .type {
+.work-exemple {
+  font-size: 16px;
+  line-height: 1.87;
+}
+
+.work-exemple .type {
   color: var(--primary-tex-color);
 
   font-weight: 700;
@@ -131,13 +136,15 @@ a {
 .hero {
   color: var(--title-background-color);
   background-color: var(--fuuter-background-color);
-
+  text-align: center;
   letter-spacing: 0.06em;
+}
+.hero-title {
   font-weight: 900;
   font-size: 44px;
   line-height: 1.36;
-  text-align: center;
 }
+
 .hero .button {
   font-family: inherit;
   color: var(--title-background-color);
@@ -177,6 +184,10 @@ a {
 }
 .team .resume {
   background-color: var(--title-background-color);
+
+  font-size: 16px;
+  line-height: 1.19;
+  text-align: center;
 }
 /* FUOOTER */
 .logo-footer {
@@ -185,7 +196,7 @@ a {
   font-family: Raleway, sans-serif;
   font-weight: 700;
   font-size: 26px;
-  line-height: 1.2px;
+  line-height: 1.2;
 }
 .logo-footer span {
   color: var(--accent-color);
