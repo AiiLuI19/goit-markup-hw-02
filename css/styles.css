@@ -50,7 +50,7 @@ a {
   color: var(--accent-color);
 }
 
-/*header navigation  */
+/*-------------------header navigation -------------------------- */
 
 .site-nav .link {
   color: var(--primary-tex-color);
@@ -75,9 +75,9 @@ a {
   color: var(--accent-color);
 }
 
-/* PORTFOLIO */
+/* -------------------------PORTFOLIO -----------------------*/
 
-/* section */
+/* -------------------------section ---------------------------*/
 .section-title {
   color: var(--primary-tex-color);
 
@@ -93,7 +93,7 @@ a {
 .portfolio {
   display: none;
 }
-/* Button nav*/
+/* -----------------------Button nav-------------------------*/
 .section-nav .button {
   color: var(--primary-tex-color);
 
@@ -131,8 +131,8 @@ a {
   letter-spacing: 0.06em;
 }
 
-/* ОСНОВНАЯ СТРАНИЦА */
-/* Hero */
+/* ---------------ОСНОВНАЯ СТРАНИЦА-------------------------- */
+/* -----------------------Hero ------------------------------*/
 .hero {
   color: var(--title-background-color);
   background-color: var(--fuuter-background-color);
@@ -158,12 +158,12 @@ a {
 .hero .button:hover {
   color: var(--title-text-color);
 }
-/* peculiarities */
+/* -----------------------peculiarities------------------- */
 .peculiarities {
   display: none;
 }
 
-/* Чем занимаемся */
+/* ------------------------Чем занимаемся------------------ */
 .section-title-common {
   color: var(--primary-tex-color);
 
@@ -171,7 +171,7 @@ a {
   line-height: 1.17;
   text-align: center;
 }
-/* TEAM */
+/* -------------------------TEAM --------------------------*/
 .section-team {
   background-color: var(--botton-background-color);
 }
@@ -189,7 +189,7 @@ a {
   line-height: 1.19;
   text-align: center;
 }
-/* FUOOTER */
+/* -------------------FUOOTER---------------------- */
 .logo-footer {
   color: var(--title-background-color);
 
